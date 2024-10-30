@@ -1,0 +1,124 @@
+1 - Categorize cada um dos seguintes itens como hardware ou software:
+1. CPU
+2. Disco rígido
+3. Programa Word
+4. Instagram
+5. Teclado
+
+Resposta:
+1. CPU - Hardware
+2. Disco rígido - Hardware
+3. Programa Word - Software
+4. Instagram - Software
+5. Teclado - Software
+
+2 - O que é software e qual sua importância?
+Resposta: Software é um conjunto de instruções ou programas que dizem ao hardware
+(equipamento físico) o que fazer. Ele é essencial porque controla o funcionamento dos
+dispositivos, permitindo que executem tarefas específicas, desde sistemas operacionais até
+aplicativos
+
+3 - Defina com suas próprias palavras o que é algoritmo.
+Resposta: Um algoritmo é um passo a passo organizado de instruções que resolve um
+problema ou executa uma tarefa específica. Sendo que este passo é uma sequência lógica
+de ações.
+
+4 - Cite exemplos de software usados na medicina, ciência no entretenimento que
+você conhece.
+Resposta:
+Medicina: Epic Systems (sistema de prontuário eletrônico), Interlife(app de convênios de saúde)
+Ciência no entretenimento: Spotify, instagram, facebook
+
+5 - Quais softwares deixa sua vida mais fácil? Quais deixam sua vida mais
+complicada?
+Resposta:
+Mais fácil: Google Drive
+Mais difícil: Matlab
+
+6 - Considere uma atividade de sua rotina diária. Como a computação está direta ou
+indiretamente envolvida?
+Resposta: Assistir a séries em streaming e fazer compras online
+
+7 - A partir de sua experiência pessoal, descreva uma atividade que não seria
+possível sem computadores.
+Resposta: Colocar para esquentar meu almoço em um microondas!
+
+8 - Faça uma Lista programas que você utiliza.
+Resposta:
+Microsoft Office
+Google Chrome:
+Adobe Photoshop
+Slack
+Zoom
+Spotify
+
+9 - Faça uma lista com dez atividades que não utilizam computadores de nenhuma
+maneira.
+Resposta:
+Caminhar
+Cozinhar
+Pintar
+Escrever à mão
+Ler um livro
+Jogar jogos de tabuleiro
+desenhar
+Socializar
+Fazer trabalhos manuais
+Fazer jardinagem
+
+10 - Você acha que a inteligência artificial vai acabar com empregos na área da
+computação? Justifique.
+Resposta: A inteligência artificial pode automatizar tarefas na computação, mas
+provavelmente criará novas oportunidades em áreas como desenvolvimento de IA e análise
+de dados. Habilidades humanas, como criatividade e pensamento crítico, continuarão a ser
+essenciais para as novas inovações futuras.
+
+11 - Descreva a capacidade de seu computador em termos de processamento,
+memória e armazenamento.
+Resposta:
+Processador Intel Core i7 7500U, Com 8 GB de RAM e HD de 1 TB.
+
+12 - Descreva um algoritmo para resolver um cubo mágico.
+Resposta:
+Formar a Cruz: Organize a camada superior para que as bordas correspondam às cores do
+centro.
+Resolver a Camada Superior: Posicione os cantos da camada superior corretamente.
+Finalizar as Camadas Inferiores
+
+13 - Qual a diferença entre bit e byte?
+Resposta: Um bit é a menor unidade de informação em computação, representando um
+valor de 0 ou 1. Um byte consiste em 8 bits e pode representar 256 valores diferentes,
+servindo como a unidade básica de armazenamento de dados.
+
+14 - Como representar números reais usando sistema binário?
+Resposta:
+Para representar números reais em sistema binário, utiliza-se a notação de ponto flutuante,
+que consiste em três partes: sinal, mantissa e expoente
+
+15 - Descreva os passos para converter o número decimal 150 para sua
+representação em binário.
+Resposta:
+Divisão por 2: Divida o número por 2 e anote o quociente e o resto, e continuar dividindo até o quociente por 2 até que chegue a 0.
+Registro de restos: Anotar os restos de cada divisão pois eles irão representar os bits do número
+binário.
+Leitura dos restos: Leia os restos da "direita para esquerda"
+Resultado: Assim, 150 em decimal é igual a 10010110 em binário.
+
+16 - Descreva o papel do scrum master, dono do produto e do time de
+desenvolvimento.
+
+O Scrum Master facilita o processo Scrum, removendo impedimentos e promovendo a comunicação na equipe. O Dono do Produto define e prioriza funcionalidades, 
+gerenciando o backlog e atuando como ligação entre stakeholders e a equipe. O Time de Desenvolvimento, auto-organizado e multidisciplinar, 
+é responsável por entregar incrementos do produto e garantir a qualidade em cada iteração.
+
+
+17 - Descreva os comandos para mover, copiar, e remover arquivos usando linha de
+comando no sistema operacional que você utiliza.
+Resposta:
+Mover arquivos: move [caminho_origem] [caminho_destino]
+Copiar arquivos: copy [caminho_origem] [caminho_destino]
+Remover arquivos: del [caminho_arquivo]
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth?
+Resposta: padrão IEEE para redes Wi-Fi é o IEEE 802.11. Já o padrão para Bluetooth é o
+IEEE 802.15.1.
